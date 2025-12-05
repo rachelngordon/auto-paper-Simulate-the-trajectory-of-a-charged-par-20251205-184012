@@ -1,0 +1,7 @@
+name: charged_particle_sim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
